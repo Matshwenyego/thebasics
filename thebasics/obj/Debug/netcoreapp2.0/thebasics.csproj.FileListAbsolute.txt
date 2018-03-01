@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\thebasics\thebasics\bin\Debug\netcoreapp2.0\thebasics.deps.json
+C:\Users\DELL\source\repos\thebasics\thebasics\bin\Debug\netcoreapp2.0\thebasics.runtimeconfig.json
+C:\Users\DELL\source\repos\thebasics\thebasics\bin\Debug\netcoreapp2.0\thebasics.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\thebasics\thebasics\bin\Debug\netcoreapp2.0\thebasics.dll
+C:\Users\DELL\source\repos\thebasics\thebasics\bin\Debug\netcoreapp2.0\thebasics.pdb
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.AssemblyInfo.cs
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.dll
+C:\Users\DELL\source\repos\thebasics\thebasics\obj\Debug\netcoreapp2.0\thebasics.pdb

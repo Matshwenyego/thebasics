@@ -1,0 +1,13 @@
+WELCOME TO C# BASIC SYSTEM DATABASE
+THIS IS JUST SOME MOCK DATA
+NOTHING REAL
+#########################################################################
+
+NAME	|SURNAME	|STUDENT NUMBER	|COURSE		|MAJOR SUBJECTS|
+Ashley	|Ngoetjana	|234155450	|MANAGEMENT	|LAW II|
+Lucky	|Malale		|212456114	|MARKETING	|SALES|
+Thapelo	|Motene		|216225485	|SOFTWARE	| C#|
+Tebogo	|Molala		|231123525	|INTELLIGENT IV	| PLC|
+Thando	|Monene		|248512369	|GOLF SCIENCE	| C#|
+
+#########################################################################
